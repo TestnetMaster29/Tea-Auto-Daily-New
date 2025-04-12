@@ -97,7 +97,7 @@ async function displayBanner(provider) {
     const bannerText = `
 ${chalk.white('===============================================')}
 ${chalk.cyan('                TEA SEPOLIA AUTO BOT')}
-${chalk.yellow('     Join Us: https://t.me/AirdropInsiderID ')}
+${chalk.yellow('     Join Us: https://t.me/xxxx ')}
 ${chalk.yellow(`        Block: ${blockNumber} | Gas: ${parseFloat(gasPriceGwei).toFixed(2)} Gwei `)}
 ${chalk.white('===============================================')}
     `;
@@ -107,7 +107,7 @@ ${chalk.white('===============================================')}
     const bannerText = `
 ${chalk.white('===============================================')}
 ${chalk.cyan('                TEA SEPOLIA AUTO BOT')}
-${chalk.yellow('     Join Us: https://t.me/AirdropInsiderID ')}
+${chalk.yellow('     Join Us: https://t.me/xxxx ')}
 ${chalk.yellow('     Network status unavailable')}
 ${chalk.white('===============================================')}
     `;
